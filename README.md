@@ -85,7 +85,7 @@ The dataset contains **order-level transaction data** including:
 
 ## Dashboard Preview
 
-<img alt = "Dashboard Preview" src='/Images/Dashboard Image.png' width='400' align='left'>
+<img alt = "Dashboard Preview" src='/Images/Dashboard Image.png' width='1000' height='1000'>
 
 
 ## 📈 Dashboard Features
