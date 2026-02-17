@@ -8,14 +8,11 @@ This repository contains the Excel file with an **interactive dashboard** and co
 
 📖 **Read full step-by-step analysis on Medium:**
 
-<img alt="Blog Thumbnail" src="/Images/Blog Thumbnail.png" width="400" aligh='left'>
-
-
-
+<a href="https://medium.com/microsoft-power-bi/full-analysis-with-interactive-dashboard-846f69dce15b-4ea307d0df03" target="_blank">
+  <img src="/Images/Blog Thumbnail.png" alt="Blog Thumbnail" width="1000" height="800">
+</a>
 
 ## 🏢 Project Overview
-
-
 
 This project analyzes the **annual sales performance** of Vrinda Stores using an interactive dashboard. The goal is to identify customer behavior patterns, sales trends, and business opportunities to improve marketing and revenue strategy.
 
