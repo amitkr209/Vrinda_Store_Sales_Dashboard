@@ -98,6 +98,8 @@ This project answers the following key business questions:
 
 ## 📊 Dashboard Preview
 
+![Dashboard Image](https://github.com/amitkr209/Vrinda_Store_Sales_Excel_Dashboard/blob/master/Images/Dashboard%20Image.png)
+
 ---
 
 ## 📈 Dashboard Features
